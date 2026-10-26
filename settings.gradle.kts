@@ -25,3 +25,4 @@ dependencyResolutionManagement {
 rootProject.name = "My Application"
 include(":HappyBirthday!")
 include(":practice_compose_article")
+include(":buisness_card")
