@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="happy_birthday_text">Happy Birthday!</string>
+    <string name="signature_text">From Kotlin!</string>
+</resources>
