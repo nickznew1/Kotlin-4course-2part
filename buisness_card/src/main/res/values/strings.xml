@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">buisness_card</string>
+    <string name="business_card_name">Nikita Slukvenko</string>
+    <string name="business_card_title">Kotlin</string>
+    <string name="business_card_number">+9999999</string>
+    <string name="business_card_link">\@nikita</string>
+    <string name="business_card_email">pochta.ru@nikita.ru</string>
+</resources>
