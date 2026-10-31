@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/HappyBirthday!" />
+            <option value="$PROJECT_DIR$/affirmations" />
             <option value="$PROJECT_DIR$/buisness_card" />
             <option value="$PROJECT_DIR$/diceroller" />
             <option value="$PROJECT_DIR$/lemonade" />
