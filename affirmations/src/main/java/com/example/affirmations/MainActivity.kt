@@ -93,7 +93,7 @@ fun AffirmationsApp() {
 @Preview
 @Composable
 private fun AffirmationCardPreview(){
-    AffirmationCard(Affirmations(R.string.affirmation1, R.drawable.image1))
+    AffirmationCard(Affirmations(R.string.affirmation1,  R.drawable.image1))
 }
 
 @Composable
